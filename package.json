@@ -1,0 +1,23 @@
+{
+  "name": "excel-web-app",
+  "version": "1.0.0",
+  "description": "JS pure course",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkonnov/excel-web-app.git"
+  },
+  "keywords": [
+    "excel",
+    "js"
+  ],
+  "author": "Dmitry Konnov <konnov@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkonnov/excel-web-app/issues"
+  },
+  "homepage": "https://github.com/dkonnov/excel-web-app#readme"
+}
