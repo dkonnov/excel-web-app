@@ -6,15 +6,18 @@
   position: relative;
   display: inline-block;
   color: rgba(0, 0, 0, 0.7);
+
   & i {
     font-size: 18px;
   }
+
   &:active,
   &.active {
     color: $color;
   }
+
   &:hover {
-    background: #eeeeee;
+    background: #eee;
     cursor: pointer;
   }
 }
