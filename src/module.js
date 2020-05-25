@@ -1,7 +1,7 @@
-console.log("456");
+// console.log('456');
 
 async function start() {
-  await promise.resolve();
+  // console.log('456');
 }
 
 start();
